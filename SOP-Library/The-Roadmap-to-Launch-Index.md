@@ -11,6 +11,8 @@ This index outlines the structural components of the **Juric OS Launch Framework
 ## 🏗️ Phase 1: Product & Market Readiness
 * **SOP: Manufacturing & Quality Control (QC) Protocol**
   * *Focus:* Engineering-grade standards for production consistency and defect mitigation.
+* **MODULE 2.4: Liquid Integrity & Logistics Hazards (Specialized Audit)**
+  * *Focus:* Physical durability validation (IATA Pressure tests, Thermal stability, and ISTA Drop-tests) to prevent catastrophic inventory loss during global fulfillment.
 * **SOP: Market Validation & The "Smoke Test"**
   * *Focus:* Structural data gathering before full-scale resource commitment.
 
