@@ -122,4 +122,12 @@ These SOPs are designed as "Plug-and-Play" modules, ready to be integrated into 
 ---
 > ⚠️ **Full SOP documentation, live Notion templates, tactical checklists, and automation configurations are available to active clients.** This index shows the depth and breadth of the system. The implementation is customized per engagement.
 ---
+## Related Documents
+- [Launch-Warfare-Essentials.md](https://github.com/ladislavjuric-OS/Operations-Architecture-SOP/blob/main/SOP-Library/Launch-Warfare-Essentials.md) — Pre-launch strategy and execution
+- [Quality-Control-Deep-Dive.md](https://github.com/ladislavjuric-OS/Operations-Architecture-SOP/blob/main/SOP-Library/Quality-Control-Deep-Dive.md) — Manufacturing QC framework
+- [The-101st-Day-Epilogue.md](https://github.com/ladislavjuric-OS/Operations-Architecture-SOP/blob/main/SOP-Library/The-101st-Day-Epilogue.md) — Post-campaign fulfillment
+- [Launch-Day-Operations.md](https://github.com/ladislavjuric-OS/Operations-Architecture-SOP/blob/main/SOP-Library/Launch-Day-Operations.md) — Hour-by-hour D-Day operations
+---
+📬 **[Contact & Connect](https://github.com/ladislavjuric-OS/Operations-Architecture-SOP#contact--connect)** — Interested in implementation? Let's talk.
+---
 *Juric OS — Operations Architecture | Proof Before Promise™*
