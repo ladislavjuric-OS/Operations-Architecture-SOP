@@ -92,4 +92,12 @@ Decision framework for tool consolidation:
 
 ---
 
+## Related Documents
+- [Forensic-Audit-Framework.md](https://github.com/ladislavjuric-OS/Operations-Architecture-SOP/blob/main/Architecture-Schemas/Forensic-Audit-Framework.md) — Diagnostic methodology behind the audit
+- [Spoke-and-Hub-Model.md](https://github.com/ladislavjuric-OS/Operations-Architecture-SOP/blob/main/Architecture-Schemas/Spoke-and-Hub-Model.md) — Multi-division architecture framework
+- [KPI-Scorecard-Template.md](https://github.com/ladislavjuric-OS/Operations-Architecture-SOP/blob/main/SOP-Library/KPI-Scorecard-Template.md) — Dashboard template for operational tracking
+- [Operational-Blueprints-Index.md](https://github.com/ladislavjuric-OS/Operations-Architecture-SOP/blob/main/SOP-Library/Operational-Blueprints-Index.md) — Full framework catalog
+---
+📬 **[Contact & Connect](https://github.com/ladislavjuric-OS/Operations-Architecture-SOP#contact--connect)** — Interested in implementation? Let's talk.
+---
 *Juric OS — Operations Architecture | Proof Before Promise™*
