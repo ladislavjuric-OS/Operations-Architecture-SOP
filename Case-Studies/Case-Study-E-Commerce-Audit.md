@@ -98,4 +98,12 @@ This case demonstrates the core Juric OS philosophy:
 
 ---
 
+## Related Documents
+- [Forensic-Audit-Framework.md](https://github.com/ladislavjuric-OS/Operations-Architecture-SOP/blob/main/Architecture-Schemas/Forensic-Audit-Framework.md) — The 8-module scoring system used in this audit
+- [MVL-Gate-Protocol.md](https://github.com/ladislavjuric-OS/Operations-Architecture-SOP/blob/main/Architecture-Schemas/MVL-Gate-Protocol.md) — Gate protocol for Conditional GO
+- [Campaign-Update-Engine.md](https://github.com/ladislavjuric-OS/Operations-Architecture-SOP/blob/main/SOP-Library/Campaign-Update-Engine.md) — Valley of Death prevention protocol
+- [Launch-Warfare-Essentials.md](https://github.com/ladislavjuric-OS/Operations-Architecture-SOP/blob/main/SOP-Library/Launch-Warfare-Essentials.md) — Pre-launch strategy and FOMO mechanics
+---
+📬 **[Contact & Connect](https://github.com/ladislavjuric-OS/Operations-Architecture-SOP#contact--connect)** — Interested in implementation? Let's talk.
+---
 *Juric OS — Operations Architecture | Proof Before Promise™*
