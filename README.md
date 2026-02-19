@@ -24,6 +24,7 @@ We don't start with a plan. We start with a forensic diagnosis. If the numbers d
 | A **potential client** evaluating my approach | → `README.md` (you're here) + `Case-Studies/` |
 | A **founder** looking for frameworks to apply | → `Architecture-Schemas/` for structural blueprints |
 | An **ops professional** looking for SOP templates | → `SOP-Library/` for execution manuals |
+| Evaluating **high-level strategy** and visual case studies? | → Visit the [Juric Venture Lab](https://www.notion.so/Juric-OS-System-Architecture-Blueprint-YOUR_PAGE_ID) |
 
 ---
 
@@ -32,31 +33,33 @@ Operations-Architecture-SOP/
 
 ├── Architecture-Schemas/
 
-│   ├── [nashville-architecture.md](http://nashville-architecture.md)       # Single source of truth framework
-
-│   ├── [spoke-and-hub-model.md](http://spoke-and-hub-model.md)          # Multi-division resource allocation
-
-│   ├── [forensic-audit-framework.md](http://forensic-audit-framework.md)     # 8-module readiness scoring system
-
-│   └── [mvl-gate-protocol.md](http://mvl-gate-protocol.md)            # Minimum Viable Launch decision gates
+│   └── [Nashville-Venture-Studio.md](http://Nashville-Venture-Studio.md)       # Spoke-and-Hub multi-division framework
 
 │
 
 ├── Case-Studies/
 
-│   ├── [crowdfunding-launch-no-go.md](http://crowdfunding-launch-no-go.md)    # 28/100 → Conditional GO transformation
+│   ├── [Case-Study-E-Commerce-Audit.md](http://Case-Study-E-Commerce-Audit.md)    # 28/100 → Conditional GO transformation
 
-│   └── [multi-contractor-ops.md](http://multi-contractor-ops.md)         # 35+ subcontractors, 15 builds, 6 months
+│   ├── [Case-Study-Sales-Ops-Failure.md](http://Case-Study-Sales-Ops-Failure.md)   # Multi-tool chaos → architecture fix
+
+│   ├── [Technical-Audit-Liquid-Logistics.md](http://Technical-Audit-Liquid-Logistics.md) # IATA/ISTA physical product validation
+
+│   └── [The-Baggizmo-Blueprint.md](http://The-Baggizmo-Blueprint.md)         # $890K, 5 campaigns, 4 continents
 
 │
 
 ├── SOP-Library/
 
-│   ├── [manufacturing-qc-protocol.md](http://manufacturing-qc-protocol.md)    # AQL inspection + Golden Sample gates
+│   ├── [Launch-Warfare-Essentials.md](http://Launch-Warfare-Essentials.md)      # Pre-launch → FOMO → community ops
 
-│   ├── [launch-day-operations.md](http://launch-day-operations.md)        # Hour-by-hour execution playbook
+│   ├── [Operational-Blueprints-Index.md](http://Operational-Blueprints-Index.md)   # Nashville, Forensic Audit, MVL, KPIs
 
-│   └── [campaign-update-engine.md](http://campaign-update-engine.md)       # "Valley of Death" prevention protocol
+│   ├── [Quality-Control-Deep-Dive.md](http://Quality-Control-Deep-Dive.md)      # Smoke Test → AQL → pricing psychology
+
+│   ├── [The-101st-Day-Epilogue.md](http://The-101st-Day-Epilogue.md)         # Post-campaign fulfillment & logistics
+
+│   └── [The-Roadmap-to-Launch-Index.md](http://The-Roadmap-to-Launch-Index.md)    # Master index + cross-references
 
 │
 
@@ -92,19 +95,23 @@ Every engagement follows the same disciplined architecture:
 
 ### 🏗️ Nashville Architecture
 Multi-divisional "Spoke-and-Hub" model where data flows automatically, not manually. Designed for founder-led businesses running multiple divisions (agency + venture + programs).
-→ See: `Architecture-Schemas/nashville-architecture.md`
+→ See: `Architecture-Schemas/Nashville-Venture-Studio.md`
 
 ### 🚀 Product Launch Blueprint
-111-bullet framework for global physical product launches. Battle-tested across $890K crowdfunding, 4 continents of logistics, and 5 campaigns.
-→ See: `Architecture-Schemas/mvl-gate-protocol.md`
+Master index and cross-referenced launch framework. Battle-tested across $890K crowdfunding, 4 continents of logistics, and 5 campaigns.
+→ See: `SOP-Library/The-Roadmap-to-Launch-Index.md`
 
 ### 🔍 Forensic Audit System
 8-module readiness scoring with GO/NO-GO verdict framework. Includes MVL (Minimum Viable Launch) gate protocol and "30% Day-1 Rule" mathematics.
-→ See: `Architecture-Schemas/forensic-audit-framework.md`
+→ See: `SOP-Library/Operational-Blueprints-Index.md`
 
-### 🏭 Field-to-Office Operations
-Scalable architecture for construction and service-based firms. Bulletproof handoff protocols tested with 35+ subcontractors across 15 luxury builds.
-→ See: `SOP-Library/manufacturing-qc-protocol.md`
+### 🏭 Quality Control & Manufacturing
+Smoke Test → AQL inspection → Golden Sample gates → pricing psychology. The full QC pipeline for physical products.
+→ See: `SOP-Library/Quality-Control-Deep-Dive.md`
+
+### 🎯 The Baggizmo Blueprint
+$890K across 5 campaigns, 4 continents — the full operational case study behind the crowdfunding machine.
+→ See: `Case-Studies/The-Baggizmo-Blueprint.md`
 
 ---
 
@@ -140,9 +147,15 @@ Proprietary client data, live automation keys, and confidential engagement detai
 
 ---
 
-## About
+## 📬 Contact & Connect
 
 **Ladislav Jurić** — Operations Architect
 Fractional COO | Launch Engineering | Crowdfunding Operations
+
+- 📧 Email: [ladislav@elitegrowth.pro](mailto:ladislav@elitegrowth.pro)
+- 📅 Book a discovery call: [Schedule a consultation](https://ladislav.juric.biz/calendar)
+- 🔬 Visual case studies & methodology: [Juric Venture Lab](https://www.notion.so/ladislav-command-center/Juric-OS-System-Architecture-Blueprint-3ea75f6fbb0545f08029b4aae91e7a18)
+
+> Interested in a Forensic Audit for your business? Start with a 30-minute discovery call — no commitment, just clarity.
 
 *Proof Before Promise™*
