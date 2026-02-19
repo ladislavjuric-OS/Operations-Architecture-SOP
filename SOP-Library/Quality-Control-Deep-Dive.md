@@ -83,4 +83,12 @@ Your product passes through 5+ handlers before reaching the customer. **1-meter 
 
 ---
 
+## Related Documents
+- [Technical-Audit-Liquid-Logistics.md](https://github.com/ladislavjuric-OS/Operations-Architecture-SOP/blob/main/Case-Studies/Technical-Audit-Liquid-Logistics.md) — Specialized logistics audit
+- [Forensic-Audit-Framework.md](https://github.com/ladislavjuric-OS/Operations-Architecture-SOP/blob/main/Architecture-Schemas/Forensic-Audit-Framework.md) — Full diagnostic methodology
+- [The-Baggizmo-Blueprint.md](https://github.com/ladislavjuric-OS/Operations-Architecture-SOP/blob/main/Case-Studies/The-Baggizmo-Blueprint.md) — QC lessons from 5 campaigns
+- [The-101st-Day-Epilogue.md](https://github.com/ladislavjuric-OS/Operations-Architecture-SOP/blob/main/SOP-Library/The-101st-Day-Epilogue.md) — Post-campaign fulfillment
+---
+📬 **[Contact & Connect](https://github.com/ladislavjuric-OS/Operations-Architecture-SOP#contact--connect)** — Interested in implementation? Let's talk.
+---
 *Juric OS — Operations Architecture | Proof Before Promise™*
