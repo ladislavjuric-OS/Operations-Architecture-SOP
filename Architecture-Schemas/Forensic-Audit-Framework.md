@@ -218,13 +218,17 @@ The 8 modules stay the same. The benchmarks and weights shift based on context.
 
 ---
 
+> ⚠️ **Full implementation blueprints — including workspace configurations, SOP templates, RACI matrices, and KPI dashboard designs — are available to active clients.** This document shows the architectural logic. The build is customized per organization.
+---
 ## Related Documents
 
-- `Architecture-Schemas/Nashville-Venture-Studio.md` — The operating architecture installed post-audit
-- `Architecture-Schemas/MVL-Gate-Protocol.md` — Gate-based decision framework for Conditional GO
-- `SOP-Library/Operational-Blueprints-Index.md` — Detailed operational blueprints
-- `Case-Studies/Case-Study-E-Commerce-Audit.md` — Real audit: 28/100 → Conditional GO
+- [Nashville-Venture-Studio.md](https://github.com/ladislavjuric-OS/Operations-Architecture-SOP/blob/main/Architecture-Schemas/Nashville-Venture-Studio.md) — The operating architecture installed post-audit
+- [MVL-Gate-Protocol.md](https://github.com/ladislavjuric-OS/Operations-Architecture-SOP/blob/main/Architecture-Schemas/MVL-Gate-Protocol.md) — Gate-based decision framework for Conditional GO
+- [Operational-Blueprints-Index.md](https://github.com/ladislavjuric-OS/Operations-Architecture-SOP/blob/main/SOP-Library/Operational-Blueprints-Index.md) — Detailed operational blueprints
+- [Case-Study-E-Commerce-Audit.md](https://github.com/ladislavjuric-OS/Operations-Architecture-SOP/blob/main/Case-Studies/Case-Study-E-Commerce-Audit.md) — Real audit: 28/100 → Conditional GO
 
 ---
 
+📬 **[Contact & Connect](https://github.com/ladislavjuric-OS/Operations-Architecture-SOP#contact--connect)** — Interested in implementation? Let's talk.
+---
 *Framework by Ladislav Jurić | Operations Architect | Proof Before Promise™*
