@@ -24,7 +24,8 @@ We don't start with a plan. We start with a forensic diagnosis. If the numbers d
 | A **potential client** evaluating my approach | → `README.md` (you're here) + `Case-Studies/` |
 | A **founder** looking for frameworks to apply | → `Architecture-Schemas/` for structural blueprints |
 | An **ops professional** looking for SOP templates | → `SOP-Library/` for execution manuals |
-| Evaluating **high-level strategy** and visual case studies? | → Visit the [Juric Venture Lab](https://www.notion.so/ladislav-command-center/Juric-OS-System-Architecture-Blueprint-3ea75f6fbb0545f08029b4aae91e7a18?t=30b5511910e680ee99ba00a969a3f22d) |
+| A **crowdfunding founder** preparing a Kickstarter or Indiegogo launch? | → [`MVL-Gate-Protocol.md`](https://github.com/ladislavjuric-OS/Operations-Architecture-SOP/blob/main/Architecture-Schemas/MVL-Gate-Protocol.md) + [`Launch-Warfare-Essentials.md`](https://github.com/ladislavjuric-OS/Operations-Architecture-SOP/blob/main/SOP-Library/Launch-Warfare-Essentials.md) + [`Kickstarter-vs-Indiegogo-Analysis.md`](https://github.com/ladislavjuric-OS/Operations-Architecture-SOP/blob/main/Case-Studies/Kickstarter-vs-Indiegogo-Analysis.md) + [`The-Baggizmo-Blueprint.md`](https://github.com/ladislavjuric-OS/Operations-Architecture-SOP/blob/main/Case-Studies/The-Baggizmo-Blueprint.md) |
+| Evaluating **high-level strategy** and visual case studies? | → Visit the [Juric Venture Lab](YOUR_VENTURE_LAB_URL) |
 
 ---
 
