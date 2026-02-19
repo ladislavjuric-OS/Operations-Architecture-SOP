@@ -249,14 +249,18 @@ If you need a scorecard TODAY, use this minimal version:
 
 ---
 
+> ⚠️ **Full implementation blueprints — including workspace configurations, SOP templates, RACI matrices, and KPI dashboard designs — are available to active clients.** This document shows the architectural logic. The build is customized per organization.
+---
 ## Related Documents
 
-- `Architecture-Schemas/Spoke-and-Hub-Model.md` — Multi-division dashboard architecture
-- `Architecture-Schemas/MVL-Gate-Protocol.md` — Gate-driven KPIs for launch readiness
-- `Architecture-Schemas/Forensic-Audit-Framework.md` — Diagnostic that feeds scorecard design
-- `SOP-Library/Campaign-Update-Engine.md` — Campaign KPIs and action triggers
-- `Case-Studies/Multi-Contractor-Operations.md` — Construction KPI implementation
+- [Spoke-and-Hub-Model.md](https://github.com/ladislavjuric-OS/Operations-Architecture-SOP/blob/main/Architecture-Schemas/Spoke-and-Hub-Model.md) — Multi-division dashboard architecture
+- [MVL-Gate-Protocol.md](https://github.com/ladislavjuric-OS/Operations-Architecture-SOP/blob/main/Architecture-Schemas/MVL-Gate-Protocol.md) — Gate-driven KPIs for launch readiness
+- [Forensic-Audit-Framework.md](https://github.com/ladislavjuric-OS/Operations-Architecture-SOP/blob/main/Architecture-Schemas/Forensic-Audit-Framework.md) — Diagnostic that feeds scorecard design
+- [Campaign-Update-Engine.md](https://github.com/ladislavjuric-OS/Operations-Architecture-SOP/blob/main/SOP-Library/Campaign-Update-Engine.md) — Campaign KPIs and action triggers
+- [Multi-Contractor-Operations.md](https://github.com/ladislavjuric-OS/Operations-Architecture-SOP/blob/main/Case-Studies/Multi-Contractor-Operations.md) — Construction KPI implementation
 
 ---
 
+📬 **[Contact & Connect](https://github.com/ladislavjuric-OS/Operations-Architecture-SOP#contact--connect)** — Interested in implementation? Let's talk.
+---
 *Template by Ladislav Jurić | Operations Architect | Proof Before Promise™*
