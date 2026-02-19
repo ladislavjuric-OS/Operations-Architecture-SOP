@@ -100,4 +100,12 @@ This module activates automatically in the Forensic Audit when:
 
 ---
 
+## Related Documents
+- [Quality-Control-Deep-Dive.md](https://github.com/ladislavjuric-OS/Operations-Architecture-SOP/blob/main/SOP-Library/Quality-Control-Deep-Dive.md) — Manufacturing QC framework
+- [Forensic-Audit-Framework.md](https://github.com/ladislavjuric-OS/Operations-Architecture-SOP/blob/main/Architecture-Schemas/Forensic-Audit-Framework.md) — Full audit methodology
+- [The-101st-Day-Epilogue.md](https://github.com/ladislavjuric-OS/Operations-Architecture-SOP/blob/main/SOP-Library/The-101st-Day-Epilogue.md) — Post-campaign logistics and fulfillment
+- [The-Baggizmo-Blueprint.md](https://github.com/ladislavjuric-OS/Operations-Architecture-SOP/blob/main/Case-Studies/The-Baggizmo-Blueprint.md) — Global shipping operations experience
+---
+📬 **[Contact & Connect](https://github.com/ladislavjuric-OS/Operations-Architecture-SOP#contact--connect)** — Interested in implementation? Let's talk.
+---
 *Juric OS — Operations Architecture | Proof Before Promise™*
