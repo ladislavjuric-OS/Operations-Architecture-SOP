@@ -91,4 +91,12 @@ The architecture doesn't just organize tasks. It creates **boundaries that prote
 
 ---
 
+## Related Documents
+- [Spoke-and-Hub-Model.md](https://github.com/ladislavjuric-OS/Operations-Architecture-SOP/blob/main/Architecture-Schemas/Spoke-and-Hub-Model.md) — Multi-division resource allocation architecture
+- [Forensic-Audit-Framework.md](https://github.com/ladislavjuric-OS/Operations-Architecture-SOP/blob/main/Architecture-Schemas/Forensic-Audit-Framework.md) — 8-module diagnostic methodology
+- [KPI-Scorecard-Template.md](https://github.com/ladislavjuric-OS/Operations-Architecture-SOP/blob/main/SOP-Library/KPI-Scorecard-Template.md) — "Nervous System" dashboard template
+- [Multi-Contractor-Operations.md](https://github.com/ladislavjuric-OS/Operations-Architecture-SOP/blob/main/Case-Studies/Multi-Contractor-Operations.md) — Multi-team coordination case study
+---
+📬 **[Contact & Connect](https://github.com/ladislavjuric-OS/Operations-Architecture-SOP#contact--connect)** — Interested in implementation? Let's talk.
+---
 *Juric OS — Operations Architecture | Proof Before Promise™*
