@@ -73,4 +73,12 @@ Don't use the platform's native survey for complex products. Use a dedicated Ple
 
 ---
 
+## Related Documents
+- [Quality-Control-Deep-Dive.md](https://github.com/ladislavjuric-OS/Operations-Architecture-SOP/blob/main/SOP-Library/Quality-Control-Deep-Dive.md) — Manufacturing QC protocol
+- [Campaign-Update-Engine.md](https://github.com/ladislavjuric-OS/Operations-Architecture-SOP/blob/main/SOP-Library/Campaign-Update-Engine.md) — Mid-campaign communications
+- [Technical-Audit-Liquid-Logistics.md](https://github.com/ladislavjuric-OS/Operations-Architecture-SOP/blob/main/Case-Studies/Technical-Audit-Liquid-Logistics.md) — Shipping integrity audit
+- [The-Baggizmo-Blueprint.md](https://github.com/ladislavjuric-OS/Operations-Architecture-SOP/blob/main/Case-Studies/The-Baggizmo-Blueprint.md) — Global fulfillment case study
+---
+📬 **[Contact & Connect](https://github.com/ladislavjuric-OS/Operations-Architecture-SOP#contact--connect)** — Interested in implementation? Let's talk.
+---
 *Juric OS — Operations Architecture | Proof Before Promise™*
