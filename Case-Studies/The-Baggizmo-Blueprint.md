@@ -105,4 +105,12 @@ This isn't theoretical architecture. It's operational scar tissue.
 
 ---
 
+## Related Documents
+- [Launch-Warfare-Essentials.md](https://github.com/ladislavjuric-OS/Operations-Architecture-SOP/blob/main/SOP-Library/Launch-Warfare-Essentials.md) — Launch execution playbook
+- [Campaign-Update-Engine.md](https://github.com/ladislavjuric-OS/Operations-Architecture-SOP/blob/main/SOP-Library/Campaign-Update-Engine.md) — Valley of Death prevention protocol
+- [Quality-Control-Deep-Dive.md](https://github.com/ladislavjuric-OS/Operations-Architecture-SOP/blob/main/SOP-Library/Quality-Control-Deep-Dive.md) — Manufacturing QC framework
+- [The-101st-Day-Epilogue.md](https://github.com/ladislavjuric-OS/Operations-Architecture-SOP/blob/main/SOP-Library/The-101st-Day-Epilogue.md) — Post-campaign fulfillment operations
+---
+📬 **[Contact & Connect](https://github.com/ladislavjuric-OS/Operations-Architecture-SOP#contact--connect)** — Interested in implementation? Let's talk.
+---
 *Juric OS — Operations Architecture | Proof Before Promise™*
