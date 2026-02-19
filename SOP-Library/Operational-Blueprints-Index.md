@@ -105,4 +105,12 @@ These aren't project plans. They're **engineering schematics** for operational s
 
 ---
 
+## Related Documents
+- [Forensic-Audit-Framework.md](https://github.com/ladislavjuric-OS/Operations-Architecture-SOP/blob/main/Architecture-Schemas/Forensic-Audit-Framework.md) — Full audit framework
+- [Spoke-and-Hub-Model.md](https://github.com/ladislavjuric-OS/Operations-Architecture-SOP/blob/main/Architecture-Schemas/Spoke-and-Hub-Model.md) — Multi-division architecture
+- [MVL-Gate-Protocol.md](https://github.com/ladislavjuric-OS/Operations-Architecture-SOP/blob/main/Architecture-Schemas/MVL-Gate-Protocol.md) — Pre-launch gate protocol
+- [KPI-Scorecard-Template.md](https://github.com/ladislavjuric-OS/Operations-Architecture-SOP/blob/main/SOP-Library/KPI-Scorecard-Template.md) — Dashboard template
+---
+📬 **[Contact & Connect](https://github.com/ladislavjuric-OS/Operations-Architecture-SOP#contact--connect)** — Interested in implementation? Let's talk.
+---
 *Juric OS — Operations Architecture | Proof Before Promise™*
