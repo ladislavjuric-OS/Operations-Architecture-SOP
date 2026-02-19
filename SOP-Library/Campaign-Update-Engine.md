@@ -33,10 +33,8 @@ Funding %
 │  ███████  ░░░░░░░░░░░░░░░░░░░░░░░  ███████
 
 └───────────────────────────────────────
-
-Day 1-3    VALLEY OF DEATH      Last 72h
-
-(60-70%)   (daily trickle)      (urgency spike)
+Day 1-3        VALLEY OF DEATH         Last 72h
+(60-70%)       (daily trickle)        (urgency spike)
 
 ### Why It Happens
 1. **Algorithm decay** — platforms stop promoting campaigns that lose velocity
