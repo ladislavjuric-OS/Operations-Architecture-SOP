@@ -13,7 +13,7 @@ This repository contains the structural logic, SOPs, and operational frameworks 
 This is not theory. Every framework here was built under pressure — global product launches, multi-contractor construction, city-wide infrastructure rollouts, and 5 crowdfunding campaigns across 3 continents.
 
 **Core philosophy: Proof Before Promise™**
-We don't start with a plan. We start with a forensic diagnosis. If the numbers don't support a GO decision — we say NO.
+We don’t start with a plan. We start with a forensic diagnosis. If the numbers don’t support a GO decision — we say NO.
 
 ---
 
@@ -21,11 +21,12 @@ We don't start with a plan. We start with a forensic diagnosis. If the numbers d
 
 | If you are... | Start here |
 |---|---|
-| A **potential client** evaluating my approach | → `README.md` (you're here) + [`Case-Studies/`](https://github.com/ladislavjuric-OS/Operations-Architecture-SOP/tree/main/Case-Studies) |
-| A **founder** looking for frameworks to apply | → [`Architecture-Schemas/`](https://github.com/ladislavjuric-OS/Operations-Architecture-SOP/tree/main/Architecture-Schemas) for structural blueprints |
-| An **ops professional** looking for SOP templates | → [`SOP-Library/`](https://github.com/ladislavjuric-OS/Operations-Architecture-SOP/tree/main/SOP-Library) for execution manuals |
-| A **crowdfunding founder** preparing a Kickstarter or Indiegogo launch? | → [`MVL-Gate-Protocol.md`](https://github.com/ladislavjuric-OS/Operations-Architecture-SOP/blob/main/Architecture-Schemas/MVL-Gate-Protocol.md) + [`Launch-Warfare-Essentials.md`](https://github.com/ladislavjuric-OS/Operations-Architecture-SOP/blob/main/SOP-Library/Launch-Warfare-Essentials.md) + [`Kickstarter-vs-Indiegogo-Analysis.md`](https://github.com/ladislavjuric-OS/Operations-Architecture-SOP/blob/main/Case-Studies/Kickstarter-vs-Indiegogo-Analysis.md) + [`The-Baggizmo-Blueprint.md`](https://github.com/ladislavjuric-OS/Operations-Architecture-SOP/blob/main/Case-Studies/The-Baggizmo-Blueprint.md) |
-| Evaluating **high-level strategy** and visual case studies? | → Visit the [Juric Venture Lab](YOUR_VENTURE_LAB_URL) |
+| A **potential client** evaluating my approach | → `README.md` (you’re here) + `Case-Studies/` |
+| A **founder** looking for frameworks to apply | → `Architecture-Schemas/` for structural blueprints |
+| An **ops professional** looking for SOP templates | → `SOP-Library/` for execution manuals |
+| A **crowdfunding founder** preparing a Kickstarter or Indiegogo launch | → `MVL-Gate-Protocol.md` + `Launch-Warfare-Essentials.md` + `The-Baggizmo-Blueprint.md` |
+| A **DTC / ecommerce operator** with multi-department complexity | → `Operational-Audit-Methodology.md` + `Single-Source-of-Truth-Blueprint.md` |
+| Evaluating **high-level strategy** and visual case studies | → Visit the [Juric Venture Lab](https://www.notion.so/3ea75f6fbb0545f08029b4aae91e7a18) |
 
 ---
 
@@ -33,28 +34,32 @@ We don't start with a plan. We start with a forensic diagnosis. If the numbers d
 
     Operations-Architecture-SOP/
     ├── Architecture-Schemas/
-    │   ├── Forensic-Audit-Framework.md        # 8-module diagnostic with scoring matrix
-    │   ├── MVL-Gate-Protocol.md               # Minimum Viable Launch gate system
-    │   ├── Nashville-Venture-Studio.md        # Multi-division source of truth
-    │   └── Spoke-and-Hub-Model.md             # Multi-venture resource allocation
+    │   ├── Forensic-Audit-Framework.md          # 8-module diagnostic with scoring matrix
+    │   ├── MVL-Gate-Protocol.md                 # Minimum Viable Launch gate system
+    │   ├── Nashville-Venture-Studio.md          # Multi-division source of truth
+    │   ├── Operational-Audit-Methodology.md     # End-to-end ops audit methodology (NEW)
+    │   ├── Single-Source-of-Truth-Blueprint.md  # Vocabulary and entity model (NEW)
+    │   └── Spoke-and-Hub-Model.md               # Multi-venture resource allocation
     │
     ├── Case-Studies/
-    │   ├── Case-Study-E-Commerce-Audit.md     # 28/100 → Conditional GO transformation
-    │   ├── Case-Study-Sales-Ops-Failure.md    # Multi-tool chaos → architecture fix
+    │   ├── Case-Study-E-Commerce-Audit.md       # 28/100 → Conditional GO transformation
+    │   ├── Case-Study-Sales-Ops-Failure.md      # Multi-tool chaos → architecture fix
     │   ├── Kickstarter-vs-Indiegogo-Analysis.md # Platform selection framework
-    │   ├── Multi-Contractor-Operations.md     # 35+ subs, 15 builds, 6 months
-    │   ├── Technical-Audit-Liquid-Logistics.md # IATA/ISTA physical product validation
-    │   └── The-Baggizmo-Blueprint.md          # $890K, 5 campaigns, 4 continents
+    │   ├── Multi-Contractor-Operations.md       # 35+ subs, 15 builds, 6 months
+    │   ├── Technical-Audit-Liquid-Logistics.md  # IATA/ISTA physical product validation
+    │   └── The-Baggizmo-Blueprint.md            # $890K, 5 campaigns, 4 continents
     │
     ├── SOP-Library/
-    │   ├── Campaign-Update-Engine.md          # Valley of Death prevention protocol
-    │   ├── KPI-Scorecard-Template.md          # "Nervous System" dashboard templates
-    │   ├── Launch-Day-Operations.md           # First 24h execution protocol
-    │   ├── Launch-Warfare-Essentials.md       # Pre-launch → FOMO → community ops
-    │   ├── Operational-Blueprints-Index.md    # Nashville, Forensic Audit, MVL, KPIs
-    │   ├── Quality-Control-Deep-Dive.md       # Smoke Test → AQL → pricing psychology
-    │   ├── The-101st-Day-Epilogue.md          # Post-campaign fulfillment & logistics
-    │   └── The-Roadmap-to-Launch-Index.md     # Master index + cross-references
+    │   ├── 30-60-90-Roadmap-Template.md         # Post-audit roadmap with gate criteria (NEW)
+    │   ├── Campaign-Update-Engine.md            # Valley of Death prevention protocol
+    │   ├── Escalation-Matrix-Template.md        # Founder extraction & delegation (NEW)
+    │   ├── KPI-Scorecard-Template.md            # "Nervous System" dashboard templates
+    │   ├── Launch-Day-Operations.md             # First 24h execution protocol
+    │   ├── Launch-Warfare-Essentials.md         # Pre-launch → FOMO → community ops
+    │   ├── Operational-Blueprints-Index.md      # Nashville, Forensic Audit, MVL, KPIs
+    │   ├── Quality-Control-Deep-Dive.md         # Smoke Test → AQL → pricing psychology
+    │   ├── The-101st-Day-Epilogue.md            # Post-campaign fulfillment & logistics
+    │   └── The-Roadmap-to-Launch-Index.md       # Master index + cross-references
     │
     └── README.md
 
@@ -85,8 +90,24 @@ Every engagement follows the same disciplined architecture:
 
 ## Frameworks & Blueprints
 
+### 🏗️ Operational Architecture Audit
+End-to-end methodology for mapping how a business actually moves — before building anything. 3-phase investigation: Discovery, Mapping, Synthesis. Delivers workflow map, tracker skeleton, 30/60/90 roadmap, and escalation matrix.
+→ See: [Architecture-Schemas/Operational-Audit-Methodology.md](https://github.com/ladislavjuric-OS/Operations-Architecture-SOP/blob/main/Architecture-Schemas/Operational-Audit-Methodology.md)
+
+### 🗂️ Single Source of Truth Blueprint
+Vocabulary-first architecture for DTC and multi-channel operations. Defines core entities, status libraries, and naming conventions. The foundation before any tracker, dashboard, or automation is built.
+→ See: [Architecture-Schemas/Single-Source-of-Truth-Blueprint.md](https://github.com/ladislavjuric-OS/Operations-Architecture-SOP/blob/main/Architecture-Schemas/Single-Source-of-Truth-Blueprint.md)
+
+### ⚗️ Escalation Matrix Template
+Four-level delegation framework for founder-led businesses. Defines what requires the Founder/Owner vs what can be delegated or automated. Includes diagnostic and implementation guide.
+→ See: [SOP-Library/Escalation-Matrix-Template.md](https://github.com/ladislavjuric-OS/Operations-Architecture-SOP/blob/main/SOP-Library/Escalation-Matrix-Template.md)
+
+### 📅 30/60/90 Day Ops Roadmap
+Post-audit action plan with gate criteria. Vocabulary → Tracker → SOP → Automation → Scale. Includes Defer and Ignore lists, common mistakes, and before/after comparison.
+→ See: [SOP-Library/30-60-90-Roadmap-Template.md](https://github.com/ladislavjuric-OS/Operations-Architecture-SOP/blob/main/SOP-Library/30-60-90-Roadmap-Template.md)
+
 ### 🏗️ Nashville Architecture
-Multi-divisional "Spoke-and-Hub" model where data flows automatically, not manually. Designed for founder-led businesses running multiple divisions (agency + venture + programs).
+Multi-divisional "Spoke-and-Hub" model where data flows automatically, not manually. Designed for founder-led businesses running multiple divisions.
 → See: [Architecture-Schemas/Nashville-Venture-Studio.md](https://github.com/ladislavjuric-OS/Operations-Architecture-SOP/blob/main/Architecture-Schemas/Nashville-Venture-Studio.md)
 
 ### 🕸️ Spoke-and-Hub Model
@@ -139,7 +160,8 @@ Platform selection framework with scoring matrix, fee comparison, backer behavio
 
 | Operation | Scale | What It Taught Us |
 |---|---|---|
-| **Consumer Tech — Global Launch** | $890K funding, logistics across EU/US/Asia/UAE | SOPs aren't optional — they're survival |
+| **Consumer Tech — Global Launch** | $890K funding, logistics across EU/US/Asia/UAE | SOPs aren’t optional — they’re survival |
+| **Luxury DTC Brand — Ops Architecture** | £10M+ revenue, 5 Shopify storefronts, 2 factories, UK/US fulfilment | Founder memory is not a system |
 | **Luxury Construction** | 15 villas, 6 months, 35+ subcontractors | Your "operating system" is either real or catastrophic |
 | **Telecom Infrastructure** | City-wide fiber deployment, 4-phase rollout | Zero room for improvisation |
 | **Crowdfunding Campaigns** | 5 campaigns incl. Japan (CAMPFIRE), top 3 in Croatia | Every campaign is a launch system stress test |
@@ -152,6 +174,9 @@ Platform selection framework with scoring matrix, fee comparison, backer behavio
 |---|---|
 | **Forensic Audit** | Full-spectrum operational diagnosis before any buildout |
 | **Nashville Architecture** | Single source of truth framework — processes, KPIs, owners |
+| **Single Source of Truth** | One agreed data model: entities, statuses, vocabulary, all departments aligned |
+| **Escalation Matrix** | Four-level decision framework defining what requires Founder/Owner vs what is delegated |
+| **30/60/90 Roadmap** | Post-audit action plan: Foundation → Pilot → Rollout with gate criteria |
 | **MVL Gates** | Minimum Viable Launch — pre-launch checkpoints that must pass before GO |
 | **Spoke-and-Hub** | Structural model for multi-division resource allocation |
 | **30% Day-1 Rule** | ~30% of funding goal must be achievable on Day 1 for algorithmic momentum |
@@ -169,15 +194,15 @@ Proprietary client data, live automation keys, and confidential engagement detai
 
 ---
 
-## 📬 Contact & Connect
+## 📨 Contact & Connect
 
 **Ladislav Jurić** — Operations Architect
 Fractional COO | Launch Engineering | Crowdfunding Operations
 
 - 📧 Email: [ladislav@elitegrowth.pro](mailto:ladislav@elitegrowth.pro)
 - 📅 Book a discovery call: [Schedule a consultation](https://ladislav.juric.biz/calendar)
-- 🔬 Visual case studies & methodology: [Juric Venture Lab](https://www.notion.so/ladislav-command-center/Juric-OS-System-Architecture-Blueprint-3ea75f6fbb0545f08029b4aae91e7a18?t=30b5511910e680ee99ba00a969a3f22d)
+- 🔬 Visual case studies & methodology: [Juric Venture Lab](https://www.notion.so/3ea75f6fbb0545f08029b4aae91e7a18)
 
-> Interested in a Forensic Audit for your business? Start with a 30-minute discovery call — no commitment, just clarity.
+> Interested in a Forensic Audit or Operational Architecture engagement? Start with a 30-minute discovery call — no commitment, just clarity.
 
 *Proof Before Promise™*
