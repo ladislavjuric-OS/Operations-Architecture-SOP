@@ -23,7 +23,7 @@ It maps every process, handoff, and decision point with one goal: to produce a c
 
 ---
 
-## Phase 1 — Discovery (Days 1–3)
+## Phase 1 — Discovery (Week 1–3)
 
 - Shadow a live operational cycle (order window, production kick-off, dispatch run)
 - Interview department leads on current process — not the ideal process, the actual one
@@ -34,7 +34,7 @@ It maps every process, handoff, and decision point with one goal: to produce a c
 
 ---
 
-## Phase 2 — Mapping (Days 4–8)
+## Phase 2 — Mapping (Week 4–8)
 
 - Build end-to-end Order-to-Dispatch flow diagram
 - Identify every handoff, decision point, and manual step
@@ -45,7 +45,7 @@ Order window open → Shopify export → MTO extraction → stock check → allo
 
 ---
 
-## Phase 3 — Synthesis (Days 9–14)
+## Phase 3 — Synthesis (Week 9–14)
 
 - Define Single Source of Truth: entities, statuses, vocabulary
 - Write 30/60/90 Day Roadmap: what to build first / defer / ignore
