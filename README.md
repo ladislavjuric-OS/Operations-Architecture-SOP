@@ -21,11 +21,11 @@ We don’t start with a plan. We start with a forensic diagnosis. If the numbers
 
 | If you are... | Start here |
 |---|---|
-| A **potential client** evaluating my approach | → `README.md` (you’re here) + `Case-Studies/` |
-| A **founder** looking for frameworks to apply | → `Architecture-Schemas/` for structural blueprints |
-| An **ops professional** looking for SOP templates | → `SOP-Library/` for execution manuals |
-| A **crowdfunding founder** preparing a Kickstarter or Indiegogo launch | → `MVL-Gate-Protocol.md` + `Launch-Warfare-Essentials.md` + `The-Baggizmo-Blueprint.md` |
-| A **DTC / ecommerce operator** with multi-department complexity | → `Operational-Audit-Methodology.md` + `Single-Source-of-Truth-Blueprint.md` |
+| A **potential client** evaluating my approach | → README.md (you're here) + [Case-Studies/](https://github.com/ladislavjuric-OS/Operations-Architecture-SOP/tree/main/Case-Studies) |
+| A **founder** looking for frameworks to apply | → [Architecture-Schemas/](https://github.com/ladislavjuric-OS/Operations-Architecture-SOP/tree/main/Architecture-Schemas) for structural blueprints |
+| An **ops professional** looking for SOP templates | → [SOP-Library/](https://github.com/ladislavjuric-OS/Operations-Architecture-SOP/tree/main/SOP-Library) for execution manuals |
+| A **crowdfunding founder** preparing a Kickstarter or Indiegogo launch | → [MVL-Gate-Protocol.md](https://github.com/ladislavjuric-OS/Operations-Architecture-SOP/blob/main/Architecture-Schemas/MVL-Gate-Protocol.md) + [Launch-Warfare-Essentials.md](https://github.com/ladislavjuric-OS/Operations-Architecture-SOP/blob/main/SOP-Library/Launch-Warfare-Essentials.md) + [The-Baggizmo-Blueprint.md](https://github.com/ladislavjuric-OS/Operations-Architecture-SOP/blob/main/Case-Studies/The-Baggizmo-Blueprint.md) |
+| A **DTC / ecommerce operator** with multi-department complexity | → [Operational-Audit-Methodology.md](https://github.com/ladislavjuric-OS/Operations-Architecture-SOP/blob/main/Architecture-Schemas/Operational-Audit-Methodology.md) + [Single-Source-of-Truth-Blueprint.md](https://github.com/ladislavjuric-OS/Operations-Architecture-SOP/blob/main/Architecture-Schemas/Single-Source-of-Truth-Blueprint.md) |
 | Evaluating **high-level strategy** and visual case studies | → Visit the [Juric Venture Lab](https://www.notion.so/3ea75f6fbb0545f08029b4aae91e7a18) |
 
 ---
