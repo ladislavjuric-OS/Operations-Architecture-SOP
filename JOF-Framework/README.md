@@ -32,10 +32,11 @@ Every principle has a live project behind it:
 
 ## Proof
 
-- $1M+ revenue across ventures built on these principles
+- €2.1M+ combined revenue across 4 independent ventures
+- $890K raised via crowdfunding across 5 campaigns
 - 12,000+ units shipped globally
-- 55+ people employed across 3 industries
-- 5 crowdfunding campaigns executed
+- 55+ people employed across hardware, retail, and transport
+- 0 institutional capital — all bootstrapped
 
 ---
 
